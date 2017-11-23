@@ -41,3 +41,8 @@ C:\Users\Administrator\Downloads\XF.Recursos_Parte_21\XF.Recursos\XF.Recursos\XF
 C:\Users\Administrator\Downloads\XF.Recursos_Parte_21\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.pdb
 C:\Users\Administrator\Downloads\XF.Recursos_Parte_21\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.Lista.ListaEtiquetaView.xaml.g.cs
 C:\Users\Administrator\Downloads\XF.Recursos_Parte_21\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.GPS.CoordenadaView.xaml.g.cs
+C:\Users\Administrator\Downloads\XF.Recursos_Parte_21\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.API.PhoneView.xaml.g.cs
+C:\Users\Administrator\Downloads\XF.Recursos_Parte_21\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.API.CameraView.xaml.g.cs
+C:\Users\Administrator\Downloads\XF.Recursos_Parte_21\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.Controles.PickerView.xaml.g.cs
+C:\Users\Administrator\Downloads\XF.Recursos_Parte_21\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.Controles.ProgressoView.xaml.g.cs
+C:\Users\Administrator\Downloads\XF.Recursos_Parte_21\XF.Recursos\XF.Recursos\XF.Recursos\obj\Debug\XF.Recursos.Controles.ListPickerView.xaml.g.cs
